@@ -1,0 +1,48 @@
+header {
+	margin-bottom: 30px;
+	background-color: #EAC043;
+}
+
+body {
+	background-color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+}
+
+h3 {
+	height: 0;
+	padding-bottom: 5px;
+	margin-top: 10px;
+}
+
+.col-12 {
+	height: 60px;
+}
+
+.list {
+	font-size: small;
+}
+
+.card-bottom {
+	padding-top: 15px;
+}
+
+.box {
+	width: 200px;
+	border: 1px solid #F4F4F4;
+}
+
+.name {
+	font-weight: bold;
+	font-size: small;
+	margin-left: 10px;
+}
+
+.description {
+	font-size: small;
+	margin-left: 10px;
+}
