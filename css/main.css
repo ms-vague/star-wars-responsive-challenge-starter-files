@@ -9,22 +9,17 @@ body {
 }
 
 img {
-	width: 200px;
-	height: 200px;
+	width: 300px;
+	height: 300px;
 }
 
-h3 {
-	height: 0;
-	padding-bottom: 5px;
+h1 {
+	margin-bottom: 5px;
 	margin-top: 10px;
 }
 
 .col-12 {
-	height: 60px;
-}
-
-.list {
-	font-size: small;
+	height: 90px;
 }
 
 .card-bottom {
@@ -32,17 +27,17 @@ h3 {
 }
 
 .box {
-	width: 200px;
+	width: 300px;
 	border: 1px solid #F4F4F4;
 }
 
 .name {
 	font-weight: bold;
-	font-size: small;
+	font-size: medium;
 	margin-left: 10px;
 }
 
 .description {
-	font-size: small;
+	font-size: normal;
 	margin-left: 10px;
 }
