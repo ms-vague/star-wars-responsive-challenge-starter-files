@@ -9,8 +9,8 @@ body {
 }
 
 img {
-	width: 300px;
-	height: 300px;
+	width: 100%;
+
 }
 
 h1 {
@@ -27,7 +27,6 @@ h1 {
 }
 
 .box {
-	width: 300px;
 	border: 1px solid #F4F4F4;
 }
 
